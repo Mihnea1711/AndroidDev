@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DrawingApp</string>
+    <string name="large_brush_image">large brush image</string>
+    <string name="medium_brush_image">medium brush image</string>
+    <string name="small_brush_image">small brush image</string>
+    <string name="brush_icon">brush icon</string>
+    <string name="gallery_icon">gallery icon</string>
+    <string name="undo_icon">undo icon button</string>
+    <string name="redo_icon">redo icon button</string>
+    <string name="save_icon">save button</string>
+</resources>

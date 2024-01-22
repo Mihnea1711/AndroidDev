@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkoutApp</string>
+    <string name="app_logo">app logo</string>
+    <string name="main_screen_button_text">START</string>
+    <string name="bmi">BMI</string>
+    <string name="calculator">Calculator</string>
+    <string name="history">History</string>
+</resources>
